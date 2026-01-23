@@ -1,1 +1,22 @@
+## Featured Projects
+
+### 1. [Falcon 9 Booster Landing Prediction](./Falcon9-Booster-Landing-Prediction)
+- **Languages:** Python, R  
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Description:** Predicting Falcon 9 booster landing success using ML models.  
+
+### 2. [Loan Status Prediction](./Loan-Status-Prediction)
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Description:** ML models to predict loan approval based on customer financial data.  
+
+### 3. [CV Analyst (Resume Analysis System)](./CV-Analyst)
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, NLTK, TensorFlow, Keras  
+- **Description:** AI system for resume analysis using NLP and ML.  
+
+### 4. [Coffee Disease Detection](./Coffee-Disease-Detection)
+- **Languages:** Python  
+- **Libraries:** TensorFlow, PyTorch, OpenCV  
+- **Description:** ML model to detect diseases in coffee plants using image analysis.
 # Portfolio
