@@ -1,6 +1,6 @@
 ## Featured Projects
 
-### 1. [projects/Falcon9_Booster_Landing)   
+### 1. [Falcon 9 Booster Landing Prediction](./projects/Falcon9_Booster_Landing) 
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, numpy, seaborn, matplotlib.pyplot
 - **Models Used:** Logistic Regression, Decision Tree Classifier, Support Vector Machine (SVM), K-Nearest Neighbors (KNN)
