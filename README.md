@@ -19,4 +19,4 @@
 - **Languages:** Python  
 - **Libraries:** TensorFlow, PyTorch, OpenCV  
 - **Description:** ML model to detect diseases in coffee plants using image analysis.
-# Portfolio
+
