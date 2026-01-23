@@ -72,9 +72,4 @@ The results align with real-world observations where landing success rates incre
 - **Environment:** Jupyter Notebook  
 - **Visualization:** Statistical plots & correlation heatmaps  
 
----
 
-## ▶️ How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hamzaalhadidi/portfolio.git
