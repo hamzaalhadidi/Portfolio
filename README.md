@@ -1,8 +1,9 @@
 ## Featured Projects
 
 ### 1. [Falcon 9 Booster Landing Prediction](./Falcon9-Booster-Landing-Prediction)
-- **Languages:** Python, R  
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, numpy, seaborn, matplotlib.pyplot
+- **Models Used:** Logistic Regression, Decision Tree Classifier, Support Vector Machine (SVM), K-Nearest Neighbors (KNN)
 - **Description:** Predicting Falcon 9 booster landing success using ML models.  
 
 ### 2. [Loan Status Prediction](./Loan-Status-Prediction)
