@@ -6,7 +6,7 @@
 - **Models Used:** Logistic Regression, Decision Tree Classifier, Support Vector Machine (SVM), K-Nearest Neighbors (KNN)
 - **Description:** Predicting Falcon 9 booster landing success using ML models.  
 
-### 2. [Loan Status Prediction](./projects/Loan Approval Prediction)  
+### 2. [Loan Status Prediction](./projects/Loan_Approval_Prediction)  
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow  
 - **Description:** ML models to predict loan approval based on customer financial data.  
