@@ -57,7 +57,7 @@ The project is divided into three main stages, each handled in a dedicated Jupyt
 ---
 
 ## 🛠️ Tools & Technologies
-* **Language:** Python 3.x
+* **Language:** Python
 * **DL Framework:** TensorFlow / Keras
 * **Data Science:** Pandas, NumPy, Scikit-learn
 * **Visualization:** Matplotlib, Seaborn
