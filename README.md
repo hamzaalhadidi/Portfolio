@@ -8,8 +8,8 @@
 
 ### 2. [Loan Status Prediction](./projects/Loan_Approval_Prediction)  
 - **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow  
-- **Description:** ML models to predict loan approval based on customer financial data.  
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, keras, Matplotlib, Seaborn 
+- **Description:** Deep Learning models to predict loan approval based on customer financial data.  
 
 ### 3. [CV Analyst (Resume Analysis System)](./CV-Analyst)
 - **Languages:** Python  
