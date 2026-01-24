@@ -63,9 +63,4 @@ The project is divided into three main stages, each handled in a dedicated Jupyt
 * **Visualization:** Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
 
----
 
-## 🚀 How to Use
-1. Clone this repository.
-2. Install dependencies: `pip install tensorflow pandas scikit-learn matplotlib seaborn`.
-3. Run `modeling.ipynb` to train the model or use the saved `.keras` file for inference.
