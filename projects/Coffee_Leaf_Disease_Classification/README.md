@@ -62,10 +62,4 @@ The model utilizes a **Sequential CNN** structure:
 * **Data Science & Viz:** NumPy, Matplotlib
 * **Environment:** Jupyter Notebook
 
----
 
-## 🚀 How to Run
-1. **Clone this repository.**
-2. **Install requirements:**
-   ```bash
-   pip install tensorflow numpy matplotlib pillow
