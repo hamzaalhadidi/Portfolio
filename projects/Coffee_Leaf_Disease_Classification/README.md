@@ -65,10 +65,4 @@ The project is organized into three specialized Jupyter Notebooks for clarity an
 * **Analysis:** NumPy, Matplotlib
 * **Environment:** Jupyter Notebook
 
----
 
-## 🚀 How to Run
-1. **Clone the repository.**
-2. **Install dependencies:**
-   ```bash
-   pip install tensorflow numpy matplotlib pillow
