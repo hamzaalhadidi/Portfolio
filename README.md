@@ -11,13 +11,8 @@
 - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, keras, Matplotlib, Seaborn 
 - **Description:** Deep Learning models to predict loan approval based on customer financial data.  
 
-### 3. [CV Analyst (Resume Analysis System)](./CV-Analyst)
+### 4. [Coffee Leaf Disease](./projects/Coffee_Leaf_Disease_Classification)      
 - **Languages:** Python  
-- **Libraries:** Pandas, NumPy, NLTK, TensorFlow, Keras  
-- **Description:** AI system for resume analysis using NLP and ML.  
-
-### 4. [Coffee Disease Detection](./Coffee-Disease-Detection)
-- **Languages:** Python  
-- **Libraries:** TensorFlow, PyTorch, OpenCV  
-- **Description:** ML model to detect diseases in coffee plants using image analysis.
+- **Libraries:** TensorFlow, Keras, OpenCV, NumPy, Matplotlib, Seaborn
+- **Description:** Deep Learning model to detect diseases in coffee plants using image analysis.
 
