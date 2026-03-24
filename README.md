@@ -11,8 +11,13 @@
 - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, keras, Matplotlib, Seaborn 
 - **Description:** Deep Learning models to predict loan approval based on customer financial data.  
 
-### 4. [Coffee Leaf Disease](./projects/Coffee_Leaf_Disease_Classification)      
+### 3. [Coffee Leaf Disease](./projects/Coffee_Leaf_Disease_Classification)      
 - **Languages:** Python  
 - **Libraries:** TensorFlow, Keras, OpenCV, NumPy, Matplotlib, Seaborn
 - **Description:** Deep Learning model to detect diseases in coffee plants using image analysis.
 
+### 3. [Customer Shopping Behavior Analysis](./projects/Customer_Shopping_Behavior_Analysis)
+- **Languages:** Python, SQL (T-SQL)
+- **Libraries:** Pandas, NumPy, SQLAlchemy, Matplotlib, Seaborn
+- **Tools:** SQL Server, Power BI, DAX
+- **Description:** End-to-end data analysis project covering customer segmentation, revenue insights, and product performance using Python for data cleaning, SQL for business queries, and Power BI for interactive dashboards.
